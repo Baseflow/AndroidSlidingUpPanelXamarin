@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidSlidingUpPanelXamarin", "AndroidSlidingUpPanelXamarin\AndroidSlidingUpPanelXamarin.csproj", "{6E76C357-A884-40EE-B7F3-EB1ED9F2B5AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidingUpPanel.Sample", "SlidingUpPanel.Sample\SlidingUpPanel.Sample.csproj", "{0F30B80C-E13A-4C05-A110-6E44F35536BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F30B80C-E13A-4C05-A110-6E44F35536BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F30B80C-E13A-4C05-A110-6E44F35536BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F30B80C-E13A-4C05-A110-6E44F35536BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F30B80C-E13A-4C05-A110-6E44F35536BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E76C357-A884-40EE-B7F3-EB1ED9F2B5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E76C357-A884-40EE-B7F3-EB1ED9F2B5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E76C357-A884-40EE-B7F3-EB1ED9F2B5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E76C357-A884-40EE-B7F3-EB1ED9F2B5AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
