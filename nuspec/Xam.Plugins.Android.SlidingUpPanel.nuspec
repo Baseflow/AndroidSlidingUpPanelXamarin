@@ -12,7 +12,7 @@
         <tags>Xamarin, C#, Android</tags>
     </metadata>
     <files>
-        <file src="AndroidSlidingUpPanelXamarin\bin\Release\AndroidSlidingUpPanelXamarin.dll" target="lib\MonoAndroid\AndroidSlidingUpPanelXamarin.dll" />
-        <file src="AndroidSlidingUpPanelXamarin\bin\Release\AndroidSlidingUpPanelXamarin.pdb" target="lib\MonoAndroid\AndroidSlidingUpPanelXamarin.pdb" />
+        <file src="..\AndroidSlidingUpPanelXamarin\bin\Release\AndroidSlidingUpPanelXamarin.dll" target="lib\MonoAndroid\AndroidSlidingUpPanelXamarin.dll" />
+        <file src="..\AndroidSlidingUpPanelXamarin\bin\Release\AndroidSlidingUpPanelXamarin.pdb" target="lib\MonoAndroid\AndroidSlidingUpPanelXamarin.pdb" />
     </files>
 </package>
