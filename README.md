@@ -24,7 +24,7 @@ Look at the sample project and the original project for more information.
 
 ### Licensing
 
-MvvmCross is licensed under the [MS-PL License](http://opensource.org/licenses/ms-pl.html)
+This project is licensed under the [MS-PL License](http://opensource.org/licenses/ms-pl.html)
 
 [umano]: https://github.com/umano
 [AndroidSlidingUpPanel]: https://github.com/umano/AndroidSlidingUpPanel
