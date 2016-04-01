@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata>
+    <id>Xamarin.Bindings.AndroidSlidingUpPanel</id>
+    <version>3.3.0</version>
+    <title>Xamarin.Bindings.AndroidSlidingUpPanel</title>
+    <authors>Umano - orginal java library</authors>
+    <projectUrl>https://github.com/martijn00/AndroidSlidingUpPanelXamarin</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Binding library of umano Android Sliding Up Panel v3.3.0</description>
+    <tags>xamarin android monodroid xamarin.android</tags>
+    <dependencies>
+      <group targetFramework="monoandroid60">
+        <dependency id="Xamarin.Android.Support.v4" version="23.1.1.1" />
+        <dependency id="Xamarin.Android.Support.v7.RecyclerView" version="23.1.1.1"/>
+        <dependency id="NineOldAndroids" version="2.4.0"/>
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\Xamarin.Bindings.AndroidSlidingUpPanel.dll" target="lib\MonoAndroid\Xamarin.Bindings.AndroidSlidingUpPanel.dll" />
+  </files>
+</package>
