@@ -1,18 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
-    <metadata>
-        <id>Xam.Plugins.Android.SlidingUpPanel</id>
-        <version>1.0.0</version>
-        <title>SlidingUpPanel for Xamarin Android</title>
-        <authors>Martijn van Dijk</authors>
-        <owners>Martijn van Dijk</owners>
-        <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>Xamarin bindings library for SlidingUpPanel</description>
-        <releaseNotes>Initial version</releaseNotes>
-        <tags>Xamarin, C#, Android</tags>
-    </metadata>
-    <files>
-        <file src="..\AndroidSlidingUpPanelXamarin\bin\Release\AndroidSlidingUpPanelXamarin.dll" target="lib\MonoAndroid\AndroidSlidingUpPanelXamarin.dll" />
-        <file src="..\AndroidSlidingUpPanelXamarin\bin\Release\AndroidSlidingUpPanelXamarin.pdb" target="lib\MonoAndroid\AndroidSlidingUpPanelXamarin.pdb" />
-    </files>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+	<metadata>
+		<id>Xam.Plugins.Android.SlidingUpPanel</id>
+		<version>3.3.0</version>
+		<title>SlidingUpPanel for Xamarin Android</title>
+		<authors>Martijn van Dijk</authors>
+		<projectUrl>https://github.com/martijn00/AndroidSlidingUpPanelXamarin</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>Binding library of umano Android Sliding Up Panel</description>
+		<tags>xamarin android monodroid xamarin.android sliding up panel</tags>
+		<dependencies>
+			<group targetFramework="MonoAndroid">
+				<dependency id="Xamarin.Android.Support.v4" version="23.1.1.1" />
+				<dependency id="Xamarin.Android.Support.v7.RecyclerView" version="23.1.1.1"/>
+				<dependency id="NineOldAndroids" version="2.4.0"/>
+			</group>
+		</dependencies>
+	</metadata>
+	<files>
+		<file src="..\AndroidSlidingUpPanelXamarin\bin\Release\Xamarin.Bindings.AndroidSlidingUpPanel.dll" target="lib\MonoAndroid\Xamarin.Bindings.AndroidSlidingUpPanel.dll" />
+	</files>
 </package>

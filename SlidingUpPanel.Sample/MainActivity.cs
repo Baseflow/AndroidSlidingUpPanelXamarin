@@ -11,7 +11,7 @@ using Com.Sothree.Slidinguppanel;
 
 namespace SlidingUpPanel.Sample
 {
-    [Activity (Label = "SlidingUpPanel.Sample", MainLauncher = true, Icon = "@drawable/icon", Theme = "@style/AppBaseTheme")]
+    [Activity (Label = "SlidingUpPanel.Sample", MainLauncher = true, Icon = "@drawable/icon", Theme = "@style/AppTheme")]
     public class MainActivity : AppCompatActivity
     {
         private SlidingUpPanelLayout mLayout;
