@@ -14,7 +14,7 @@ How do I use it?
       android:gravity="bottom"
       sothree:umanoPanelHeight="68dp"
       sothree:umanoShadowHeight="4dp"
-      sothree:umanoParalaxOffset="100dp"
+      sothree:umanoParallaxOffset="100dp"
       sothree:umanoDragView="@+id/dragView"
       sothree:umanoOverlay="true">
     <!-- MAIN CONTENT -->
