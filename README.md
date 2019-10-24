@@ -4,6 +4,12 @@ Xamarin Bindings library for [Umano's][umano] [AndroidSlidingUpPanel][AndroidSli
 
 Plugin is available on [Nuget][Nuget].
 
+# Support
+
+* Feel free to open an issue. Make sure to use one of the templates!
+* Commercial support is available. Integration with your app or services, samples, feature request, etc. Email: [hello@baseflow.com](mailto:hello@baseflow.com)
+* Powered by: [baseflow.com](https://baseflow.com)
+
 How do I use it?
 ================
 
